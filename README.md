@@ -43,3 +43,8 @@ Copie o código que está no arquivo db.sql (dentro do projeto) e cole na área 
 Clique em Executar
 7. ✅ Acesse o projeto no navegador:
 http://localhost/cadastro-clientes
+
+---
+
+### Video de demonstração do Crud
+https://youtu.be/qiSCpK3QWac
